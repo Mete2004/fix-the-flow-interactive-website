@@ -45,7 +45,6 @@ Tik `document.` in je Console, en scroll door de lijst met suggesties. Schrijf o
 - [console.log() @ MDN](https://developer.mozilla.org/en-US/docs/Web/API/console/log_static)
 - [Introduction to the DOM @ MDN](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
-<img width="1624" height="1056" alt="image" src="https://github.com/user-attachments/assets/9e23b0f8-2668-4f23-b4b6-35deafdc0378" />
 
 ## Het 3 stappenplan, waarmee je (bijna) alles kan
 
