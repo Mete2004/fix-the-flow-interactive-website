@@ -240,7 +240,7 @@ tableOfContents.classList.add('highlighted');
         }
     }
 }
-/* Mijn micro-interactie geeft de inhoudsopgave straks een gele fade.. */
+/* Mijn interactie geeft de inhoudsopgave straks een gele fade.. */
 section ul.highlighted {
     background: yellow;
 }
@@ -265,7 +265,7 @@ De code was dus niet fout, het deed alleen net iets anders dan je verwachtte. Le
 
 ### Opdrachten
 
-Schrijf het plan voor je micro-interactie in _comments_ uit in je JavaScript bestand, dat je via een `<script>` tag linkt aan je code. Als je al JavaScript uit een eerdere (video) tutorial hebt—of ChadGPT al iets voor je hebt laten schrijven—is dit het moment om dat weg te gooien, opnieuw te beginnen, en nieuwe dingen te leren.
+Schrijf het plan voor je interactie in _comments_ uit in je JavaScript bestand, dat je via een `<script>` tag linkt aan je code. Als je al JavaScript uit een eerdere (video) tutorial hebt—of ChadGPT al iets voor je hebt laten schrijven—is dit het moment om dat weg te gooien, opnieuw te beginnen, en nieuwe dingen te leren.
 
 Vraag op het plan dat je in comments uitgeschreven hebt feedback van een docent of mentor. Werk je interactie uit aan de hand van het 3 stappenplan. Laat je comments gewoon staan bij je code, zodat je inzichtelijk maakt hoe je te werk bent gegaan, en eventuele (denk)foutjes makkelijk terug kunt vinden.
 
