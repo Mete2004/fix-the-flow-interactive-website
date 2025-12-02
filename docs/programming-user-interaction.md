@@ -175,6 +175,26 @@ Als je ditzelfde in JavaScript zou willen doen, moet je elke stap uitschrijven:
 
 Zeker in het begin is dit even wennen. Wat enorm helpt bij deze nieuwe taal, is de verschillende stappen die je wilt nemen eerst uitschrijven als _comments_, zoals in het voorbeeld hierboven. Zelfs als je nog niet weet welke code je moet schrijven, kun je op deze manier wel alvast een _plan_ maken. En om hints of feedback vragen over hoe je dit probleem op kunt lossen. (Wees zorgvuldig met ChadGPT om hulp vragen, want die maakt het vaak ingewikkelder dan nodig. Ook ontbreekt er vaak context, die jij wél weet.)
 
+Het 3 stappenplan kun je dus ook eerst uitschrijven in _comments_:
+
+```js
+// 1. Selecteer de button waarmee ik mijn menu open
+// 2. Wacht tot iemand erop klikt
+// 3. Verander de class van mijn <nav>, zodat deze zichtbaar wordt
+```
+
+Dit is een prima begin, wat je daarna uit kunt werken:
+
+```js
+// 1. Selecteer de button waarmee ik mijn menu open
+let button = document.querySelector('button')
+// 2. Wacht tot iemand erop klikt
+button.addEventListener('click', function() {
+    // 3. Verander de class van mijn <nav>, zodat deze zichtbaar wordt
+    document.querySelector('nav').classList.add('nav-visible')
+})
+```
+
 Vergeet niet dat HTML, CSS en JS alledrie andere regels hebben, omdat het totaal verschillende talen zijn. Als je in HTML en CSS per ongeluk een tikfout maakt, negeert een browser die vaak, en gaat die gewoon door met de rest van de pagina. In JS gaat het bij een tikfout iets sneller mis. Zodra de browser een fout in JS tegenkomt, wordt de rest niet meer uitgevoerd, en zie je een fout in je Console. Controleer die Console dus regelmatig als iets niet werkt. Gebruik de Console ook voor het _debuggen_ van je code en het controleren van je aannames.
 
 In veel gevallen kan het handig zijn om `console.log()` te gebruiken, en het resultaat te inspecteren:
