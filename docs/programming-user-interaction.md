@@ -8,7 +8,7 @@ Leer met het JavaScript 3 stappenplan en CSS interactie coderen.
 
 Als een gebruiker interactie heeft met een website, moet je goede feedback/feedforward ontwerpen en maken. Zo weet een gebruiker wat die kan verwachten, en of de actie gelukt is. 
 
-Je gaat de interactie uit jouw _user story_ coderen met HTML, CSS en JS. Tijdens de code/design review komende vrijdag krijg je feedback op je code. Volgende week vrijdag ga je jouw interactie leren testen met een _User Test_.
+Een interactie uit jouw _user story_ codeer je met HTML, CSS en JS. Tijdens de code/design review komende vrijdag krijg je feedback op je code. Volgende week vrijdag ga je jouw interactie leren testen met een _User Test_.
 
 
 ## De Console en het Document Object Model (DOM)
@@ -21,14 +21,13 @@ Het _inspecteren_ van elementen heb je dus al vaak gedaan. Als je in de Inspecto
 
 <img width="1624" height="1056" alt="image" src="https://github.com/user-attachments/assets/55558649-cce4-48a6-9d95-c7a60990f7c3" />
 
-
 ### Opdrachten Console en DOM
 
 Ga in de browser naar je eigen project, open de Console en schrijf op het whiteboard uit hoeveel elementen de pagina waar je aan werkt bestaat. Dit kun je doen door `document.querySelectorAll('*').length` uit te voeren.
 
 Zorg dat je in de Console een lijst van alle _kinderen_ uit je `<head>` element te zien krijgt, door `document.querySelector('head').children` uit te voeren.
 
-Inspecteer het element waarmee je de interactie van jouw user story wilt _activeren_ (waarschijnlijk een button). Als je die nog niet hebt, inspecteer dan een ander willekeurig element. Ga naar de Console en typ `console.log($0)`. Bevat jouw element al een `class` attribuut?
+Inspecteer het element waarmee je de interactie van jouw user story wilt _activeren_ (waarschijnlijk een button). Als je die nog niet hebt, inspecteer dan een ander willekeurig element. Ga naar de Console en typ `console.log($0)`.
 
 Voer `$0.classList.add('awesome')` uit in de Console, en daarna weer `console.log($0)`. Is er een `awesome` `class` bijgekomen?
 
