@@ -45,11 +45,31 @@
         </section>
 
         <section class="section-articles-titel">
-
             <h2>Lasciati ispirare dal mondo Milledoni</h2>
-            <button class="button-filter">
-                <img src="assets/icon-filter.svg" alt="icon-filter" class="icon-filter">
-            </button>
+
+                <div class="filter-anchor"> <!-- wrapper -->
+                    <button class="button-filter">
+                        <img src="assets/icon-filter.svg" alt="icon-filter" class="icon-filter">
+                    </button>
+
+                    <div class="filter-popover">
+                        <select>
+                            <option value="">Gender</option>
+                            <option value="male">Man</option>
+                            <option value="female">Vrouw</option>
+                        </select>
+
+                        <input type="number" placeholder="Leeftijd">
+
+                        <select>
+                            <option value="">Occasion</option>
+                            <option value="casual">Casual</option>
+                            <option value="formal">Formeel</option>
+                        </select>
+                        <button class="button-apply-filter">Filter</button>
+                     </div>
+
+                </div>
 
         </section>
 
@@ -273,3 +293,5 @@
     
 </body>
 </html>
+
+<script src="script.js"></script>
