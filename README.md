@@ -20,11 +20,14 @@ Dit helpt de gebruiker visueel en functioneel om te weten wanneer de filter acti
 State 1:
 <img width="432" height="762" alt="ss-readme1" src="https://github.com/user-attachments/assets/e96c5b8f-d413-484b-a596-9a4fed170a77" />
 
+
 State 2:
 <img width="427" height="752" alt="ss-readme2" src="https://github.com/user-attachments/assets/054cc692-ff6e-42a6-9896-6540fb2bdde9" />
 
+
 State 3:
 <img width="420" height="302" alt="ss-readme3" src="https://github.com/user-attachments/assets/d3d826f6-afbf-4d06-9701-81bbdf8b56ce" />
+
 
 State 4:
 <img width="426" height="338" alt="ss-readme4" src="https://github.com/user-attachments/assets/9dd94bb9-2ce5-45f9-a99f-7e90866b8729" />
