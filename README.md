@@ -22,7 +22,9 @@ State 1:
 <img width="432" height="762" alt="ss-readme1" src="https://github.com/user-attachments/assets/e96c5b8f-d413-484b-a596-9a4fed170a77" />
 
 
+
 State 2:
+
 
 <img width="427" height="752" alt="ss-readme2" src="https://github.com/user-attachments/assets/054cc692-ff6e-42a6-9896-6540fb2bdde9" />
 
