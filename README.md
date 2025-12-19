@@ -38,6 +38,7 @@ State 4:
 
 <img width="426" height="338" alt="ss-readme4" src="https://github.com/user-attachments/assets/9dd94bb9-2ce5-45f9-a99f-7e90866b8729" />
 
+
 Link naar de live-pagina: https://mete2004.github.io/fix-the-flow-interactive-website/
 
 ## Kenmerken
